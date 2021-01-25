@@ -1,0 +1,24 @@
+{
+  "name": "proyectoolano",
+  "version": "1.0.0",
+  "description": "Proyecto a entrega TP CoderhouseOLANO",
+  "main": "index.js",
+  "dependencies": {
+    "time-stamp": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "build-css": "node-sass --include-path scss scss/styles.scss css/estilosdesass.css",
+    "watch-css": "nodemon -e scss -x \"npm run build-css\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianOLANO/proyectoOlanoCoderhouseDw.git"
+  },
+  "author": "Cristian OLANO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianOLANO/proyectoOlanoCoderhouseDw/issues"
+  },
+  "homepage": "https://github.com/CristianOLANO/proyectoOlanoCoderhouseDw#readme"
+}
