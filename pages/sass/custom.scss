@@ -24,3 +24,7 @@ xxl: 960px
 );
 
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+.parallax{
+    background: url(../../assets/img/fondoParallax.jpg) repeat fixed 100%;
+}
