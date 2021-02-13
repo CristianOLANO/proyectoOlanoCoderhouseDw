@@ -24,3 +24,17 @@ xxl: 960px
 );
 
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+.parallax{
+    background: url(../../assets/img/fondoParallax.jpg) repeat fixed 100%;
+}
+
+body{
+    display: inline-flex;
+}
+
+.irAInicio{
+    display: inline-block;
+    height:65px;
+    width: 70px;
+}
