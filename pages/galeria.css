@@ -1,8 +1,11 @@
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
-    color: azure;
+    color: rgb(44, 54, 54);
     background-color: #17a2b8;
+}
+.nav-header {
+    color: aliceblue;
 }
 
 .subtitulo{
