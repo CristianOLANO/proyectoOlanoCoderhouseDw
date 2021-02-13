@@ -28,3 +28,13 @@ xxl: 960px
 .parallax{
     background: url(../../assets/img/fondoParallax.jpg) repeat fixed 100%;
 }
+
+body{
+    display: inline-flex;
+}
+
+.irAInicio{
+    display: inline-block;
+    height:65px;
+    width: 70px;
+}
