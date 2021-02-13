@@ -1,0 +1,14 @@
+body{
+    background-color: #17a2b8;
+}
+
+.subtitulo{
+    font-size: 2.6em;
+}
+
+.iconoVolver{
+    padding-right: 1.2em; 
+    padding-bottom: 0.8em;
+    font-size: 88px;
+    color: #698185a2;
+}
